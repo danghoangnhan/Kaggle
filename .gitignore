@@ -1,3 +1,5 @@
 .idea
-house-prices-advanced-regression-techniques/data
-house-prices-advanced-regression-techniques/house-prices-advanced-regression-techniques.zip
+output
+data
+logs
+model/__pycache__
